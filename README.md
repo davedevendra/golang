@@ -1,0 +1,2 @@
+Sample GO Lang code
+
